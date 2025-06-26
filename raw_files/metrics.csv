@@ -1,0 +1,6 @@
+,model,mse_lstm,r2_lstm,mse_gru,r2_gru,mse,r2
+0,Price - Own Features,8243.167418,0.972524,4289.82448,0.985701,,
+1,Daily Return - XGBoost,,,,,0.068583,0.95818
+2,Daily Return - RandomForest,,,,,0.148722,0.909
+3,Daily Return - Own Features,0.1681,0.8994,0.1631,0.9024,,
+4,Daily Return - External Features,0.0888,0.9468,0.0592,0.9646,,
